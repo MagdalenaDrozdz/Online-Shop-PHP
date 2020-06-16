@@ -1,0 +1,9 @@
+input {
+	width: 160px;
+	background-color: #efefef;
+	color: #666;
+	border: 2px solid #ddd;
+	border-radius: 5px;
+	font-size: 14px;
+
+}

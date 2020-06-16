@@ -1,0 +1,65 @@
+#produkty {
+	min-height: 420px;
+	float: right;
+	background: #fff;
+	width: 70%;
+	margin-top: 30px;
+	margin-right: 40px;
+} 
+#produkt1 {
+	float: left;
+	background: #fff;
+	width: 30%;
+	margin-left: 20px;
+	margin-top: 50px;
+} 
+#produkt2 {
+	float: left;
+	background: #fff;
+	width: 30%;
+	margin-left: 20px;
+	
+} 
+#produkt3 {
+	float: left;
+	background: #fff;
+	width: 20%;
+	margin-left: 20px;
+	margin-top: 50px;
+} 
+
+h4 {
+	color: #000080;
+	text-decoration: none;
+	line-height: 30px;
+}
+h5 {
+	color: #000080;
+	text-decoration: none;
+	line-height: 30px;
+	text-align: center;
+	font-size: 18px;
+}
+
+h6 {
+	color: #000080;
+	text-decoration: none;
+	line-height: 15px;
+	text-align: center;
+	font-size: 18px;
+}
+
+#podsumowanie {
+	color: #000080;
+	text-decoration: none;
+	line-height: 30px;
+	text-align: center;
+	font-size: 18px;
+} 
+
+h6 {
+	color: #000080;
+	text-decoration: none;
+	text-align: center;
+	font-size: 16px;
+}

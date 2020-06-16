@@ -1,0 +1,25 @@
+#sidebar {
+	width: 150px;
+	float: left;
+	padding: 40px;
+	margin-top: 30px;
+	margin-left: 95px;
+	background: #fff;
+	list-style: none;
+	line-height: 25px;
+	text-shadow: 0 1px 1px #000080;
+	font-size: 20px;
+	list-style: none;
+	text-decoration: none;
+	
+#h4 {
+	color: #000080;
+	text-decoration: none;
+	line-height: 50px;
+	list-style: none;
+	text-decoration: none;
+}
+
+
+
+

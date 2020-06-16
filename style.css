@@ -1,0 +1,91 @@
+body {
+	background: #fff url('images/folk.jpg');
+	text-decoration: none;
+}
+
+br.clear {
+	clear: both;
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 60px;
+	text-decoration: none;
+	font-family: comic sans ms, serif;
+	letter-spacing: 0px;
+	padding: 40px;
+	padding-left: 80px;
+	color: #000080;
+	text-decoration: none;
+}
+
+
+#header {
+	width: 90%;
+	height: 170px;
+	background: #fff;
+	padding: 10 10 10 10px;
+	margin-left: 100px;
+	margin-right: 100px;
+	margin-top: -20px;
+	text-decoration: none;
+}
+#content{
+	width: 70%;
+	height: 100%;
+	min-height: 420px;
+	background: #fff;
+	margin-left: 350px;
+	margin-top: 25px;
+	text-decoration: none;
+	line-height: 25px;
+	text-shadow: 0 0px 1px #000080;
+	font-size: 14px;
+	text-decoration: none;
+}
+
+#con{
+	width: 60%;
+	margin-left: 300px;
+	margin-top: 30px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-decoration: none;
+}
+
+
+#nav {
+	position: absolute;
+	right: 220px;
+	height: 53px;
+	line-height: 53px;
+	top: 73px;
+	text-decoration: none;
+}
+
+#nav a {
+	text-decoration: none;
+	color: #000080;
+	text-shadow: 0 1px 1px #000080;
+	font-size: 1.2em;
+	text-decoration: none;
+}
+
+#nav li {
+	margin: 0 1em 0 1em;
+	text-decoration: none;
+}
+
+#nav ul {
+	list-style: none;
+	text-decoration: none;
+}
+
+#nav ul li {
+	float: left;
+	text-decoration: none;
+}
+
+
+
+
